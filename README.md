@@ -77,7 +77,6 @@ This repository contains documentation and usage guides for SIPATEN. The main sy
 SIPATEN/
 ├── README.md
 ├── CHANGELOG.md
-├── LICENSE
 │
 ├── docs/
 │   ├── user-guide.md         ← Full user guide
@@ -117,18 +116,12 @@ Contributions are welcome! To suggest improvements or report issues:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Open a New Issue](../../issues)
-- **Email**: *(add your email here)*
+- **Email**: *rizki.desk@gmail.com*
 
 ---
 
-<p align="center">Built with ❤️ for efficient public administration in Indonesia</p>
+<p align="center">Built with ❤️ for efficient public administration in BPS</p>
