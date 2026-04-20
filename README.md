@@ -3,7 +3,7 @@
 
 ![Version](https://img.shields.io/badge/versi-1.0.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Google%20Sheets-34A853?logo=google-sheets&logoColor=white)
-![License](https://img.shields.io/badge/lisensi-MIT-orange)
+# ![License](https://img.shields.io/badge/lisensi-MIT-orange)
 ![Status](https://img.shields.io/badge/status-aktif-brightgreen)
 
 > An integrated and efficient travel administration management system built on Google Sheets — accessible from anywhere, no installation required.
